@@ -1,6 +1,12 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This setup is done to learn mobile app development using react-native and redux toolkit.
+
+Summary of implementation:
+- Message component to show simple store update
+- Users component to show api call and implementation with and without entity adaptor
+- Colors component to show api call using RTK Query
 
 ## Get started
 
