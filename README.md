@@ -8,6 +8,8 @@ Summary of implementation:
 - Users component to show api call and implementation with and without entity adaptor
 - Colors component to show api call using RTK Query
 
+Reference - https://hybridheroes.de/blog/2021-01-08-redux-toolkit-react-native/ 
+
 ## Get started
 
 1. Install dependencies
